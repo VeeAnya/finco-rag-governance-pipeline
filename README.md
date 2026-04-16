@@ -43,13 +43,14 @@ RAG pipeline design and implementation. Vector database configuration and manage
 ## Screenshots
 
 **Ingestion Pipeline**
-![Ingestion Pipeline](rag-pipeline-architecture-screenshotss/FinCo-ingestion-pipeline.png)
+![Ingestion Pipeline](FinCo-ingestion-pipeline.png)
 
 **Query Pipeline**
-![Query Pipeline](rag-pipeline-architecture-screenshotss/Finco-Query-Pipeline.png)
+![Query Pipeline](Finco-Query-Pipeline.png)
 
 **Pinecone Vector Index**
-![Pinecone Vectors](rag-pipeline-architecture-screenshotss/FinCo-Pinecone-Vector.png)
+![Pinecone Vectors](FinCo-Pinecone-Vector.png)
 
 **Airtable Query Log**
-![Airtable Query Log](rag-pipeline-architecture-screenshotss/Airtable-Query-Log.png)
+![Airtable Query Log](Airtable-Query-Log.png)
+
