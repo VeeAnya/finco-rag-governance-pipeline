@@ -39,5 +39,17 @@ GitHub — document version control and storage
 Skills Demonstrated
 RAG pipeline design and implementation. Vector database configuration and management. Enterprise document preparation and chunking strategy. Responsible AI governance applied to system design. Prompt engineering for grounded, cited responses. Compliance audit trail design. n8n workflow automation at intermediate level.
 
-Screenshots
-Coming soon.
+
+## Screenshots
+
+**Ingestion Pipeline**
+![Ingestion Pipeline](rag-pipeline-architecture-screenshotss/FinCo-ingestion-pipeline.png)
+
+**Query Pipeline**
+![Query Pipeline](rag-pipeline-architecture-screenshotss/Finco-Query-Pipeline.png)
+
+**Pinecone Vector Index**
+![Pinecone Vectors](rag-pipeline-architecture-screenshotss/FinCo-Pinecone-Vector.png)
+
+**Airtable Query Log**
+![Airtable Query Log](rag-pipeline-architecture-screenshotss/Airtable-Query-Log.png)
