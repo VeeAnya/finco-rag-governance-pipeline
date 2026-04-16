@@ -52,5 +52,5 @@ RAG pipeline design and implementation. Vector database configuration and manage
 ![Pinecone Vectors](FinCo-Pinecone-Vector.png)
 
 **Airtable Query Log**
-![Airtable Query Log](rag-pipeline-architecture-screenshotss/Airtable-Query-Log.png)
+![Airtable Query Log](Airtable-Query%20Log.png)
 
